@@ -1,0 +1,7 @@
+Analysis
+---------------
+total months:86
+total profit38382578
+profit change532869
+greatest increase['D', 532869]
+greatest decrease['D', 532869])
